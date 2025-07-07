@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/idmay25/MicrosoftDoc/_apis/build/status%2Fadjune9811.pipelines-java?branchName=main)](https://dev.azure.com/idmay25/MicrosoftDoc/_build/latest?definitionId=17&branchName=main)
 
 # Contributing
 
